@@ -1,6 +1,6 @@
 ##### How did you determine which rules should be placed in each new CSS file?
 
-IO used the guide that was provided with the lab.
+I used the guide that was provided with the lab.
 
 ---
 
